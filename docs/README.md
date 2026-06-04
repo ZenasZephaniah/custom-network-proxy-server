@@ -40,5 +40,3 @@ With the server running, execute the following script in a separate terminal win
 ```bash
 python3 tests/test_proxy.py
 ```
-```
-
