@@ -1,0 +1,4 @@
+# Blocked domains list (one domain per line)
+blockedexample.com
+badsite.org
+unsafe-domain.net
