@@ -42,8 +42,3 @@ python3 tests/test_proxy.py
 ```
 ```
 
----
-
-### You are all set!
-
-Once these files are created, run the automated integration tests (`python3 tests/test_proxy.py`). It will verify all your hard work and produce a clean, professional status summary. Let me know when you run the tests!
