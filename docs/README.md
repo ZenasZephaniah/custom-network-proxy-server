@@ -140,4 +140,3 @@ while keep_tunneling:
          receiver.sendall(data)
 ```
 This reduces the thread count by 50% for HTTPS streams, decreasing memory usage and context-switching overhead.
-```
