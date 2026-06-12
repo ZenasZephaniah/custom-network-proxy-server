@@ -1,7 +1,5 @@
 # Custom Network Proxy Server
 
-A lightweight, concurrent network forward proxy server implemented in Python, handling unencrypted HTTP GET/HEAD requests and encrypted HTTPS CONNECT tunneling.
-
 ## Features
 *   **Thread Pool Concurrency**: Configurable worker pools to limit resource exhaustion.
 *   **Thread-Safe LRU Cache**: Memory-bound cache utilizing a Doubly Linked List and Hash Map.
